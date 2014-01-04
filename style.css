@@ -1,0 +1,15 @@
+.peg {
+
+  background: url('peg.jpg');
+  background-size: cover;
+  width: 100px;
+  height: 150px;
+  float: left;
+}
+
+.disc {
+  height: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #234678;
+}
